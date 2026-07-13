@@ -24,7 +24,7 @@ Passionate about building scalable web applications, custom eCommerce solutions,
 
 # 👨‍💻 About Me
 
-I'm a passionate Full-Stack PHP Developer with **2.5+ years of professional experience** in developing custom web applications, eCommerce platforms, APIs, and business solutions.
+I'm a passionate Full-Stack PHP Developer with **4+ years of professional experience** in developing custom web applications, eCommerce platforms, APIs, and business solutions.
 
 I enjoy solving complex problems, optimizing performance, and creating scalable applications that deliver excellent user experiences.
 
@@ -197,7 +197,7 @@ https://www.linkedin.com/in/anshul-kumar-4b1376205
 
 📧 Email
 
-yourmail@gmail.com
+anshulkumar969602@gmail.com
 
 ---
 
